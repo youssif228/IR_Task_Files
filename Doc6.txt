@@ -1,0 +1,4 @@
+The Internet of Food is expanding. I've written about smart chopsticks which
+will detect oils containing unsanitary levels of contamination,
+a fork that monitors what percentage bites you are taking, 
+and a sensible cup that counts the quantity and calories you drink.
